@@ -69,7 +69,7 @@
 <img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/mohamed-mukhtar-muhudiin-878834407" target="blank">
+<a href="https://linkedin.com/in/mohamed-mukhtar-muhudiin-878834407" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
